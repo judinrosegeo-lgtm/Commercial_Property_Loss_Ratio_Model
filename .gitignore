@@ -1,0 +1,7 @@
+# Office temp/lock files
+~$*
+*.tmp
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
